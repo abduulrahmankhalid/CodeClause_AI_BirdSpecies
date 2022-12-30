@@ -6,3 +6,4 @@ This repository is part of CodeClause Artificial Intelligence internship.
 Project #2 : Animal Species Prediction 
 
 ## Kaggle Notebook : https://www.kaggle.com/code/abduulrahmankhalid/birds-species-prediction-mobilenetv2-acc-95
+### Demo Video : https://www.youtube.com/watch?v=zfCJLNIESD8
